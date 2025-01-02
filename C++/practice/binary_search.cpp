@@ -14,7 +14,7 @@ int main() {
       if (v == a[j]) {
         flag = 1;
       }
-    }
+    }   
     if (flag == 1) {
       cout << "found" << endl;
     } else {
